@@ -35,6 +35,7 @@ Firmware implementation as well as software support isn't yet done or verified.
 - `/Gerbers` - generated PCB fabrication files
 - `/Images` - project images and renders
 - `/Licenses` - license texts
+- `/Schematic` - schematic PDF (via KiCad plot feature)
 
 ## Development tools
 
@@ -61,7 +62,7 @@ This repository contains material under multiple licenses. Individual file-level
 
 ## Hardware license
 
-Original files under `/PCB`, and `/Gerbers` are licensed under the CERN Open
+Original files under `/PCB`, `/Schematic` and `/Gerbers` are licensed under the CERN Open
 Hardware Licence Version 2 – Weakly Reciprocal.
 
 See `/Licenses/CERN-OHL-W-2.0.txt` for full terms.
